@@ -27,6 +27,7 @@ export const Balance = () => {
   return (
     <>
       <h4>Your Balance</h4>
+      <a href='mailto:jmmokeni@gmail.com'>Contact me</a>
     <h1>{moneyFormatter(total)}</h1>
     </>
   )
