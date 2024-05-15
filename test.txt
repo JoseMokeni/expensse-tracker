@@ -1,1 +1,3 @@
 test
+sonar password Admin*
+sonar token squ_986771ae003dc11375cd5be3a01b4dccfecc7666
